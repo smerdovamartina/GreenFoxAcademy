@@ -1,3 +1,3 @@
 # GreenFoxAcademy
 Add first name: Martina
-Add lasr name: SM
+Add last name: SM
